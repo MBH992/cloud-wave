@@ -1,0 +1,4 @@
+writer :
+lab-edu-rds-aurora.cluster-c7oi8gs4ek5k.ap-northeast-2.rds.amazonaws.com
+reader: 
+lab-edu-rds-aurora.cluster-ro-c7oi8gs4ek5k.ap-northeast-2.rds.amazonaws.com
